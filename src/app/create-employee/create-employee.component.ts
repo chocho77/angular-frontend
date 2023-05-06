@@ -15,4 +15,8 @@ export class CreateEmployeeComponent implements OnInit{
     
   }
 
+  onSubmit(){
+    
+  }
+
 }
